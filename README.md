@@ -1,4 +1,4 @@
-# Miniature MLOps Pipeline
+# MLOps Pipeline
 
 This repository contains a simple Python application implementing a reproducible batch pipeline with configuration, logging, metrics, and Docker containerization as described in the MLOps Engineering Internship technical assessment.
 
